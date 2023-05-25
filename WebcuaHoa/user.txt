@@ -1,0 +1,4 @@
+id,password,last_login,is_superuser,username,first_name,last_name,email,is_staff,is_active,date_joined
+2,pbkdf2_sha256$320000$O9i39mfN8VxD4UFpiEcvFG$NwOuvS7l80ysTZfAblLyQOwG9XeT3+SZ0CASecWKd3w=,,t,user1,"","","",t,t,2022-08-22 19:08:18+07
+3,pbkdf2_sha256$320000$3cM77aFAoB1SgZvcjtuefD$XNikPnM75TDNOMasHOPRVbtcYk4i4aIopY0lw5agzu8=,,f,user2,Vũ,Nguyễn,vu972001@gmail.com,f,t,2022-08-23 12:38:07+07
+1,pbkdf2_sha256$320000$PAEmqrhgylJzEzyyY2ARn4$LmGsBQFeK9P39kvekXkdrM1XtAhPpuu7eDu+BOwS1lE=,2022-08-21 23:25:06+07,t,admin,"","",admin@gmail.com,t,t,2022-08-21 05:17:51+07

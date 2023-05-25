@@ -1,0 +1,6 @@
+id,TenTk,MatKhau,SDT_id
+1,huynhcongchinh,123456,0981232457
+2,giahuy123,123456,0938545634
+7,nguyendonhatvu,32459871359176,
+8,nguyendonhatvu,123345645,
+9,tanquang123,123456789,
